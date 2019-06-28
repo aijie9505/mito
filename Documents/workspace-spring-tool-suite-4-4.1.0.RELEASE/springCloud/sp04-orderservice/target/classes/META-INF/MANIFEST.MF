@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sp04-orderservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: UID
+Implementation-Vendor-Id: com.tedu
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sp04-orderservice
+Created-By: Maven Integration for Eclipse
+
